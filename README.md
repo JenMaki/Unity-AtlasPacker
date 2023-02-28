@@ -4,7 +4,7 @@ This Unity `EditorWindow` allows you to select a folder that contains multiple t
 
 ## Usage
 
-- Add the Editor folder, containing [AtlasPacker.cs](Editor/AtlasPacker.cs) to your project.
+- Add the Editor folder, containing [AtlasPacker.cs](Editor/AtlasPacker.cs), to your project.
 - Open the Window in Unity from `Window/Textures/AtlasPacker`.
 - Select a folder in your project, containing the input textures.
 - Adjust settings or keep defaults, and click build!
